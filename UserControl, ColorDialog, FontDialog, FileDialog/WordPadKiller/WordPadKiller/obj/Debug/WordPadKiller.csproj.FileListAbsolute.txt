@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\bin\Debug\WordPadKiller.exe.config
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\bin\Debug\WordPadKiller.exe
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\bin\Debug\WordPadKiller.pdb
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.Form1.resources
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.exe
+C:\Users\ASUS\source\repos\WordPadKiller\WordPadKiller\obj\Debug\WordPadKiller.pdb
