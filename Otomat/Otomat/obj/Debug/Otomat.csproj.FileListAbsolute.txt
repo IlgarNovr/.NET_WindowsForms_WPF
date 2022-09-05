@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Otomat\Otomat\bin\Debug\Otomat.exe.config
+C:\Users\ASUS\source\repos\Otomat\Otomat\bin\Debug\Otomat.exe
+C:\Users\ASUS\source\repos\Otomat\Otomat\bin\Debug\Otomat.pdb
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.Form1.resources
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.exe
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.pdb
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.ProductUC.resources
+C:\Users\ASUS\source\repos\Otomat\Otomat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Otomat\Otomat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.CopyComplete
