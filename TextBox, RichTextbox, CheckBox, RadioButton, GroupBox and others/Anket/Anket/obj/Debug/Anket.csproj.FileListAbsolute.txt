@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Anket\Anket\bin\Debug\Anket.exe.config
+C:\Users\ASUS\source\repos\Anket\Anket\bin\Debug\Anket.exe
+C:\Users\ASUS\source\repos\Anket\Anket\bin\Debug\Anket.pdb
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.Form1.resources
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.exe
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.pdb
+C:\Users\ASUS\source\repos\Anket\Anket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Anket\Anket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Anket\Anket\obj\Debug\Anket.csproj.CopyComplete
