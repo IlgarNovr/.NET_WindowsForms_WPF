@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\bin\Debug\BakuLondon.exe.config
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\bin\Debug\BakuLondon.exe
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\bin\Debug\BakuLondon.pdb
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.exe
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.pdb
+C:\Users\ASUS\source\repos\BakuLondon\BakuLondon\obj\Debug\BakuLondon.Form1.resources

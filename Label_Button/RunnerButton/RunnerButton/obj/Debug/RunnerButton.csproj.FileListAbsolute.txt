@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\bin\Debug\RunnerButton.exe.config
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\bin\Debug\RunnerButton.exe
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\bin\Debug\RunnerButton.pdb
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.Form1.resources
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.exe
+C:\Users\ASUS\source\repos\RunnerButton\RunnerButton\obj\Debug\RunnerButton.pdb
